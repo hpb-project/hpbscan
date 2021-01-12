@@ -11,4 +11,4 @@ root@xxx-pc#sudo ./hpbscan
 The program need about two minitues time, please wait patiently.
 Normally, the program would report the result to hpb server automaticly.
 If something went wrong, program will generate a file named 
-`hpb_hwscan_info`, you need send it to node@hpb.io manully.
+`hpb_hwscan_info`, you need send it to hpb@hpb.io manully.
